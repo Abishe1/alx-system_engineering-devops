@@ -1,0 +1,1 @@
+-e#!/bin/bash\n cat ls_cwd_content
